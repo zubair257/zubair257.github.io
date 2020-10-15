@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/ilg.gnumcueclipse.feature_1.0.0.202010081133.jar" id="ilg.gnumcueclipse.feature" version="1.0.0.202010081133"/>
+   <feature url="features/riscv.vega.feature_1.0.0.202010151553.jar" id="riscv.vega.feature" version="1.0.0.202010151553"/>
 </site>
